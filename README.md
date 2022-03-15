@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rostyslav</h1>
 <h3 align="center">A passionate Full Stack developer based in Berlin</h3>
 
-- 🔭 I’m currently working on [Sponty](sponty.xyz)
+- 🔭 I’m currently working on [Sponty](https://www.sponty.xyz/)
 
 - 🌱 I’m currently learning **React and Redux**
 
