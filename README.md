@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at [rkanibolotskyi.com](rkanibolotskyi.com)
-
 - 💬 Ask me about **Ruby & Rails, HTML, CSS & SASS, JS & React**
 
 - 📫 How to reach me **rkanibolotskyi@gmail.com**
