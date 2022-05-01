@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 💬 Ask me about **Ruby & Rails, HTML, CSS & SASS, JS & React**
+- 💬 Ask me about **Ruby & Rails, HTML, CSS & SASS, JS & React, MongoDB, Next.js**
 
 - 📫 How to reach me **rkanibolotskyi@gmail.com**
 
