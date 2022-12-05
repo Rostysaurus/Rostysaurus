@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rostyslav</h1>
 <h3 align="center">A passionate Full Stack developer based in Berlin</h3>
 
-- 🔭 I’m currently working on [Help Local](https://help-local-germany.vercel.app/)
-
-- 🌱 I’m currently learning **React and Redux**
-
 - 💬 Ask me about **Ruby & Rails, HTML, CSS & SASS, JS & React, MongoDB, Next.js**
 
 - 📫 How to reach me **rkanibolotskyi@gmail.com**
